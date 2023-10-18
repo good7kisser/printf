@@ -1,2 +1,1 @@
-# printf
-## c - printf
+this is printf
